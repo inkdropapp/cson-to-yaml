@@ -1,6 +1,6 @@
 {
   "name": "@inkdropapp/cson-to-yaml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A quick converter from CSON to YAML",
   "main": "index.js",
   "types": "index.d.ts",
