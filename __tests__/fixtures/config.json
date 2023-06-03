@@ -1,0 +1,96 @@
+{
+  "*": {
+    "core": {
+      "betaChannel": true,
+      "db": {
+        "backupPath": "/Users/nora/backup",
+        "machineId": "u5n5RvrTm"
+      },
+      "devMode": true,
+      "disabledPackages": [
+        "switch-notebook",
+        "code-title",
+        "plantuml",
+        "markmap",
+        "lang-graphql",
+        "alert-card",
+        "code-fold",
+        "thumbnail-list",
+        "spell-checker",
+        "link-card",
+        "chartjs",
+        "style-override",
+        "character-count",
+        "sidetoc"
+      ],
+      "lastNavigationState": {
+        "editingNoteId": "note:rylPVeIcgz",
+        "queryContext": {
+          "mode": "search",
+          "searchKeyword": "mermaid "
+        },
+        "sidebar": {
+          "workspace": {
+            "bookId": "",
+            "visible": false
+          }
+        }
+      },
+      "mainWindow": {
+        "acrylicEnabled": true,
+        "fullscreen": false,
+        "hiddenComponents": {
+          "sidebar-menu": [],
+          "sidebar-workspace-menu": []
+        },
+        "maximized": false,
+        "noteListBar": {
+          "w": 322
+        },
+        "position": {
+          "x": 450,
+          "y": 298
+        },
+        "sideBar": {
+          "collapsedBooks": [
+            "book:05f32a5b-eca0-4bfa-bd9b-6e39afbd6b72",
+            "book:ByReB891x",
+            "book:bqY07_CSU",
+            "book:9dc6a7a7-a0e4-4eeb-997c-32b385767dc2"
+          ]
+        },
+        "size": {
+          "h": 1163,
+          "w": 1662
+        }
+      },
+      "server": {
+        "auth": {
+          "password": "***",
+          "username": "***"
+        },
+        "bindAddress": "127.0.0.1",
+        "enabled": true,
+        "port": 19840
+      },
+      "themes": ["nord-ui", "nord-syntax", "nord-preview"]
+    },
+    "editor": {
+      "cursorScrollMargin": 3,
+      "fontFamily": "Hack Nerd Font Mono,SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace",
+      "fontSize": 14,
+      "styleActiveLine": true,
+      "toolbarHidden": true,
+      "unorderedListBullet": "-",
+      "viewMode": "preview"
+    },
+    "mermaid": {
+      "theme": "dark",
+      "themeVariables": "{ \"primaryColor\": \"red\" }"
+    },
+    "preview": {
+      "fontSize": 17,
+      "iframeEnabled": true
+    }
+  }
+}

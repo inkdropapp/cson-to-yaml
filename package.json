@@ -1,0 +1,30 @@
+{
+  "name": "@inkdropapp/cson-to-yaml",
+  "version": "0.1.0",
+  "description": "A quick converter from CSON to YAML",
+  "main": "index.ts",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest --config jest.config.js --runInBand",
+    "prepublishOnly": "npm run lint && npm run test"
+  },
+  "keywords": [
+    "cson",
+    "yaml"
+  ],
+  "author": "Takuya Matsuyama <t@inkdrop.app>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "@typescript-eslint/eslint-plugin": "^5.59.8",
+    "@typescript-eslint/parser": "^5.59.8",
+    "eslint": "^8.42.0",
+    "eslint-config-prettier": "^8.8.0",
+    "jest": "^29.5.0",
+    "jest-environment-node": "^29.5.0",
+    "js-yaml": "^4.1.0",
+    "prettier": "^2.8.8",
+    "ts-jest": "^29.1.0",
+    "typescript": "<5.1.0"
+  }
+}
